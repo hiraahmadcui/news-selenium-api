@@ -1,0 +1,6 @@
+Flask
+gunicorn
+selenium
+beautifulsoup4
+lxml
+summa
